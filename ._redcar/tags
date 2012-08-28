@@ -1,5 +1,10 @@
-1346188803
+1346191206
 Application	C:/Sites/rails_projects/rendezvous/config/application.rb	  class Application 
 ApplicationController	C:/Sites/rails_projects/rendezvous/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	C:/Sites/rails_projects/rendezvous/app/helpers/application_helper.rb	module ApplicationHelper
 Rendezvous	C:/Sites/rails_projects/rendezvous/config/application.rb	module Rendezvous
+StaticPagesController	C:/Sites/rails_projects/rendezvous/app/controllers/static_pages_controller.rb	class StaticPagesController 
+StaticPagesHelper	C:/Sites/rails_projects/rendezvous/app/helpers/static_pages_helper.rb	module StaticPagesHelper
+about	C:/Sites/rails_projects/rendezvous/app/controllers/static_pages_controller.rb	  def about
+help	C:/Sites/rails_projects/rendezvous/app/controllers/static_pages_controller.rb	  def help
+home	C:/Sites/rails_projects/rendezvous/app/controllers/static_pages_controller.rb	  def home
